@@ -5,4 +5,6 @@ package com.example.htl.myapplacation;
  */
 
 public class fdfdfd {
+	private String s;
+	private String s2;
 }
