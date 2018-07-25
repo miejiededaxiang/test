@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.htl.myapplacation.SlideDelete xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:id="@+id/delete_view"
+	android:layout_height="wrap_content">
+
+	<TextView
+		android:id="@+id/text"
+		android:layout_width="match_parent"
+		android:layout_height="100dp"
+		android:background="@color/colorAccent"
+		android:gravity="center"
+		android:padding="20dp"
+		android:text="文本"
+		android:textSize="18sp" />
+
+	<TextView
+		android:id="@+id/btn"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent"
+		android:layout_toRightOf="@+id/text"
+		android:background="@color/colorPrimary"
+		android:gravity="center"
+		android:padding="20dp"
+		android:text="删除"
+		android:textColor="#ffffff"
+		android:textSize="18sp" />
+</com.example.htl.myapplacation.SlideDelete>
