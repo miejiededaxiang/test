@@ -15,6 +15,7 @@ public class TabActivity extends AppCompatActivity {
 	private TextUtils d;
 
 	private String str;
+	private String str2;
 
 
 	private DoubleSlideSeekBar mDoubleSlideSeekBar;
