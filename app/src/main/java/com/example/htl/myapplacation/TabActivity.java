@@ -14,6 +14,8 @@ public class TabActivity extends AppCompatActivity {
 	private LinearLayout mLinearLayout;
 	private TextUtils d;
 
+	private String str;
+
 
 	private DoubleSlideSeekBar mDoubleSlideSeekBar;
 	private MapValueView mMapValueView;
