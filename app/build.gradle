@@ -3,7 +3,9 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "htl.com.testdemo"
+        applicationId "htl
+        
+        .com.testdemo"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
